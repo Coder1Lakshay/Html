@@ -1,0 +1,27 @@
+
+
+body{
+  justify-content: center;
+}
+
+.main {
+  text-align: center;
+}
+
+.marq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.Sharda {
+  font-size: 36px;
+  font-weight: bold;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.Headline{
+  color: white;
+  font-weight: bold;
+}
+
